@@ -17,11 +17,11 @@ Here im simulating receiving an IT ticket for a employee claiming their PC is mo
 
 <h2>Diagnostic Steps</h2>
 
-<img width="1425" height="621" alt="Lab_Ticket1" src="https://github.com/user-attachments/assets/a9553c5d-6e33-4f8d-8053-34d052e9aca8" />
+<img width="1421" height="615" alt="Clear_Space_6" src="https://github.com/user-attachments/assets/e8d2e2ea-49c9-4933-828e-68c43d60e77e" />
 
 </p>
 <p>
-First I come to the IT Ticketing page to see the ticket request that has been put in. This is an onboarding request from the sales manager John Doe on the behalf of a new employee named Juan Smith, who starts in a month from the ticket date, and will work in the sales department.
+First I come to the IT Ticketing page to see the ticket request that has been put in. Jane Doe has a performance problem with her computer making it slow. I contact Jane to ask her when the last time was she restarted her computer and to give it a fresh reset to see if this fixes the problem. The problem persist so now I continue to diagnose the problem.
 </p>
 <br />
 

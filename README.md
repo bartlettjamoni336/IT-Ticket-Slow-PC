@@ -26,19 +26,19 @@ First I come to the IT Ticketing page to see the ticket request that has been pu
 <br />
 
 
-<img width="1782" height="672" alt="Onboarding_CreateUser_1" src="https://github.com/user-attachments/assets/9b0761c1-f4b2-4c61-89a7-251ecd409628" />
+<img width="531" height="598" alt="Clear_Space_1" src="https://github.com/user-attachments/assets/7e88fe91-68ec-4f51-a0f1-75e3e100415d" />
 
-<p>Next, I open up Active Directory User and Computers and under the EMPLOYEES tab I will add a new user.</p>
+<p>Now I use remote desktop to remote in to Jane's computer to diagnose.</p>
 <br />
 
-<p><img width="572" height="496" alt="Onboarding_CreateUser_2" src="https://github.com/user-attachments/assets/8fc49025-6459-424c-9812-a9133d5744b4" />
+<img width="953" height="721" alt="Clear_Space_2" src="https://github.com/user-attachments/assets/6ad88625-37b5-42bd-b607-7d052172bb0d" />
 
-</p>
 <p>
-I now fill in the new employees first and last name based on the ticket request and create a correlating user logon.</p>
+Next I pull up task manager to see if there is any unusual activity that is causing any of the processes or apps to spike in heavy usage. That doesn't seem to be the case so I continue to diagnose.</p>
 <br />
-<img width="562" height="486" alt="Onboarding_CreateUser_3" src="https://github.com/user-attachments/assets/437207e1-d3cb-4af9-ac8e-c501fd56a171" />
-<p>I then hit next, and create a temporary password for the user, that he must personally change at his next logon.</p>
+<img width="1402" height="730" alt="Clear_Space_3" src="https://github.com/user-attachments/assets/f5a9f017-52b3-4a01-907e-ef639700d01d" />
+
+<p>Now I check the computers storage and see that storage space is running low.</p>
 <br />
 <img width="573" height="486" alt="Onboarding_CreateUser_4" src="https://github.com/user-attachments/assets/45d8c534-01cc-493f-89e0-20672aec31eb" />
 <p>I hit Next, and click finish to create the user.</p>

@@ -9,6 +9,8 @@ Here im simulating receiving an IT ticket for a employee claiming their PC is mo
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Spiceworks Cloud Help Desk Software
+- Task Manager
+- File Explorer
 
 <h2>Operating Systems Used </h2>
 
